@@ -9,6 +9,12 @@ yarn add @voxeet/voxeet-web-sdk @voxeet/react-components @voxeet/react-redux-5.1
 
 ## Changelog
 
+### 3.2.41
+
+#### UI update
+
+- Update loading screen
+
 ### 3.2.4
 
 #### Bug fixes
