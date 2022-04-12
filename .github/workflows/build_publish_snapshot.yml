@@ -37,6 +37,7 @@ jobs:
 
       - name: install dependencies
         run: |
+          echo "test"
           yarn install
         env:
           NODE_AUTH_TOKEN: ${{ env.CODEARTIFACT_TOKEN }}
