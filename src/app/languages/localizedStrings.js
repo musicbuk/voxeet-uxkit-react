@@ -3,7 +3,7 @@ import LocalizedStrings from "react-localization";
 export const strings = new LocalizedStrings({
   en: {
     noPstnNumbers: "There is no PSTN numbers...",
-    electronloading: "Voxeet is loading, please wait",
+    electronloading: "Musicbuk Meet is loading, please wait",
     error: "Error",
     errorPermissionDeniedMicrophone:
       "An error occured when joining the conference. Please make sure to allow access to your microphone.",
@@ -153,7 +153,7 @@ export const strings = new LocalizedStrings({
   },
   fr: {
     noPstnNumbers: "Pas de numéro PSTN ...",
-    electronloading: "Le client Voxeet va démarrer, veuillez patienter",
+    electronloading: "Le client Musicbuk Meet va démarrer, veuillez patienter",
     error: "Erreur",
     errorPermissionDeniedMicrophone:
       "Une erreur est survenue lors de la connexion à la conference. Veuillez vérifier l'accès à votre microphone.",
